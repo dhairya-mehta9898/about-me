@@ -38,4 +38,4 @@
 
 ## Projects
 
-- Student Management System (in progress)
+- Student Management System
